@@ -1,6 +1,5 @@
 export default function Music() {
   return (
-    
     <section className="px-6 py-12 text-center">
       <h2 className="text-3xl font-bold text-zenithRed">Music</h2>
       <p className="mt-4">Listen now on your favorite platform:</p>
@@ -12,7 +11,7 @@ export default function Music() {
       >
         Apple Music
       </a>
-AQMCUjDbozNwG5uNJMjIe0rb-Z8MYFqWw1yw5yZx1jI6YKjB5BC4_i9sfmHGWDAQEXikKqTcYebYF6xR0DShF87wlY19M7_7.mp4
+
       <div className="mt-8 flex justify-center">
         <iframe
           title="R N $ Single"
